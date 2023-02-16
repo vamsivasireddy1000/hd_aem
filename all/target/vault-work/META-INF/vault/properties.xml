@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>HD AEM - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2023-02-16T08:01:41.530Z</entry>
+<entry key="groupId">com.hd.cms</entry>
+<entry key="name">hd_aem.all</entry>
+<entry key="description">All content package for HD AEM</entry>
+<entry key="artifactId">hd_aem.all</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.hd.cms</entry>
+</properties>

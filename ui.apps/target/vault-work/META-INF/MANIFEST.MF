@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 17
+Implementation-Title: HD AEM - UI apps
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.hd.cms:hd_aem.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for HD AEM
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2.1
+ 9.0,adobe/cq60:core.wcm.components.config:2.19.0
+Content-Package-Dependencies-Locations: adobe/cq60:core.wcm.components.c
+ ontent:2.19.0=maven:com.adobe.cq:core.wcm.components.content:2.19.0:zip
+ ,adobe/cq60:core.wcm.components.config:2.19.0=maven:com.adobe.cq:core.w
+ cm.components.config:2.19.0:zip
+Content-Package-Roots: /apps/hd-aem/clientlibs,/apps/hd-aem/components,/
+ apps/hd-aem/i18n
+

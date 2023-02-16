@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>HD AEM - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.hd.cms:hd_aem.ui.apps:1.0.0-SNAPSHOT=maven:com.hd.cms:hd_aem.ui.apps:1.0.0-SNAPSHOT:zip</entry>
+<entry key="created">2023-02-16T07:26:59.635Z</entry>
+<entry key="groupId">com.hd.cms</entry>
+<entry key="description">UI content package for HD AEM</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.hd.cms:hd_aem.ui.apps:1.0.0-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">hd_aem.ui.content</entry>
+<entry key="artifactId">hd_aem.ui.content</entry>
+<entry key="group">com.hd.cms</entry>
+</properties>

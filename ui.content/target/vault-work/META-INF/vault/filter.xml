@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/hd-aem" mode="merge"/>
+    <filter root="/content/hd-aem" mode="merge"/>
+    <filter root="/content/dam/hd-aem/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/hd-aem" mode="merge"/>
+</workspaceFilter>
